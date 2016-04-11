@@ -1,0 +1,12 @@
+{
+    "name": "pmjones/fake",
+    "description": "A fake package for testing Gitlab.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul M. Jones",
+            "email": "pmjones88@gmail.com"
+        }
+    ],
+    "require": {}
+}
